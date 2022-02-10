@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS_Report", "SMS_Report\SMS_Report.csproj", "{26B0C0C6-2D57-4F9F-A286-542323E14FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cipher", "Cipher\Cipher.csproj", "{69DC9BD4-0A83-45A4-BA91-F1FEA6284F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26B0C0C6-2D57-4F9F-A286-542323E14FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B0C0C6-2D57-4F9F-A286-542323E14FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B0C0C6-2D57-4F9F-A286-542323E14FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B0C0C6-2D57-4F9F-A286-542323E14FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69DC9BD4-0A83-45A4-BA91-F1FEA6284F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DC9BD4-0A83-45A4-BA91-F1FEA6284F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DC9BD4-0A83-45A4-BA91-F1FEA6284F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DC9BD4-0A83-45A4-BA91-F1FEA6284F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851C3E0A-7CE6-420D-B070-78BCA0F9E0FD}
+	EndGlobalSection
+EndGlobal
