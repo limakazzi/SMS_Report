@@ -34,10 +34,7 @@ namespace SMS_Report
 
             SendSMSReturn[] sendResult = webService.SendSMS(account, messages);
 
-            if (sendResult[0].status == "OK")
-                return true;
-            else 
-                return false;
+            return sendResult[0].status == "OK";
         }
     }
 }
